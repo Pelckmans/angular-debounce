@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/shahata/angular-debounce.git",
+      "/Users/niels-van-den-broeck/Projects/Pelckmans/pakket-p"
+    ]
+  ],
+  "_from": "git+https://github.com/shahata/angular-debounce.git",
+  "_id": "angular-debounce@git+https://github.com/shahata/angular-debounce.git#0c67acaf93301c142d8eaebb94ada745f1f31bf4",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/angular-debounce",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/shahata/angular-debounce.git",
+    "rawSpec": "git+https://github.com/shahata/angular-debounce.git",
+    "saveSpec": "git+https://github.com/shahata/angular-debounce.git",
+    "fetchSpec": "https://github.com/shahata/angular-debounce.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/shahata/angular-debounce.git#0c67acaf93301c142d8eaebb94ada745f1f31bf4",
+  "_spec": "git+https://github.com/shahata/angular-debounce.git",
+  "_where": "/Users/niels-van-den-broeck/Projects/Pelckmans/pakket-p",
+  "author": {
+    "name": "Shahar Talmi"
+  },
+  "bugs": {
+    "url": "https://github.com/shahata/angular-debounce/issues"
+  },
+  "description": "Angular Debounce",
+  "devDependencies": {
+    "coveralls": "~2.6.1",
+    "grunt": "~0.4.2",
+    "grunt-contrib-connect": "~0.6.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-karma": "~0.6.2",
+    "grunt-release": "~0.6.0",
+    "karma": "~0.10.9",
+    "karma-chrome-launcher": "~0.1.2",
+    "karma-coffee-preprocessor": "~0.1.2",
+    "karma-coverage": "~0.1.4",
+    "karma-firefox-launcher": "~0.1.3",
+    "karma-growl-reporter": "~0.1.1",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma-jasmine": "~0.1.5",
+    "karma-phantomjs-launcher": "~0.1.1",
+    "karma-requirejs": "~0.2.1",
+    "karma-script-launcher": "~0.1.0",
+    "requirejs": "~2.1.10"
+  },
+  "homepage": "https://github.com/shahata/angular-debounce",
+  "license": "MIT",
+  "main": "angular-debounce.js",
+  "name": "angular-debounce",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shahata/angular-debounce.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "version": "0.1.0"
+}
