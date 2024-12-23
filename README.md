@@ -1,3 +1,5 @@
+# THIS PACKAGE WAS REMOVED FROM THE ORIGINAL DEV'S GITHUB. THIS HAS BEEN EXTRACTED FROM NODE_MODULES IN ORDER TO KEEP THE SHELL RUNNING
+
 Angular Debounce [![Build Status](https://travis-ci.org/shahata/angular-debounce.svg?branch=master)](https://travis-ci.org/shahata/angular-debounce) [![Coverage Status](https://coveralls.io/repos/shahata/angular-debounce/badge.png?branch=master)](https://coveralls.io/r/shahata/angular-debounce?branch=master)
 ================
 
